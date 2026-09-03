@@ -46,6 +46,12 @@ The prototype demonstrates the main user journey and platform features, includin
 
 👉 **[Launch Aeterna](https://elfersi.github.io/aeterna-digital-platform/)**
 
+## 📄 Final Report
+
+The full academic report presenting the platform design, economic mechanisms, behavioral insights, business model, and strategic analysis is available here:
+
+👉 **[View Aeterna Final Report](./Aeterna-Final-Report.pdf)**
+
 ## 🎓 Academic Context
 
 Developed as part of the **Master 1 BDEEM – Behavioral and Digital Economics for Effective Management** program.
